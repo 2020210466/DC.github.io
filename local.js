@@ -1,6 +1,6 @@
 //主程序,业务逻辑
 (function(){
-	var socket = io('http://124.220.206.225:8000');
+	var socket = io('https://124.220.206.225:8000');
 	var _COIGIG = [		//关卡
 		{				//第1关
 			'map':[		//地图数据
